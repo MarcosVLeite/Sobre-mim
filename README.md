@@ -1,4 +1,4 @@
-Olá, sou Marcos Leite, tenho 23 anos, moro em São Paulo  
+Olá, sou Marcos Leite, tenho 23 anos, moro em São Paulo.  
 Estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF.  
 -------------------------------------------------------------------  
 <https://www.linkedin.com/in/marcosvleite/>  
@@ -11,4 +11,4 @@ Sobre mim:
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, ampliando meus conhecimentos em tecnologia e buscando unir minha experiência com pessoas à minha formação na área de TI. Meu objetivo é realizar uma transição profissional para a área de tecnologia e programação.
 
 - Sou uma pessoa comunicativa, dedicada, curiosa e com facilidade para aprender. Sempre me interessei muito por jogos e tecnologia, desde o meu primeiro videogame(Um Super Nintendo), hoje procuro aprimorar meus conhecimentos para trabalho em algo relacionado a isso. 
-- Agradeço por ler e ter me conhecido. Espero que possamos nos conectar.
+- Agradeço por ter lido e me conhecido. Espero que possamos nos conectar.
